@@ -1,0 +1,121 @@
+mission_name,launch_date,agency,destination,crew_size,duration_days,mission_status,budget_billion_usd,distance_km,payload_kg,success_rate,commander,notes
+Apollo 11,1969-07-16,NASA,Moon,3,8,Success,25.4,384400,43900,99.2,Neil Armstrong,First crewed Moon landing
+Apollo 13,1970-04-11,NASA,Moon,3,5.9,Partial,25.8,384400,44000,67.0,Jim Lovell,Oxygen tank explosion
+Voyager 1,1977-09-05,NASA,Outer Solar System,0,NA,Active,825000000,23000000000,825.5,99.9,,Still operational
+Voyager 2,1977-08-20,NASA,Outer Solar System,0,NA,Active,895000000,18000000000,721.9,99.7,,Still operational
+Mars Pathfinder,1996-12-04,NASA,Mars,0,85,Success,280000000,78000000,890.0,96.5,,First Mars rover Sojourner
+Hubble Space Telescope,1990-04-24,NASA,Low Earth Orbit,0,NA,Active,10000000000,560,11110.0,98.1,,Space telescope
+Cassini-Huygens,1997-10-15,NASA/ESA,Saturn,0,4940,Success,3260000000,1200000000,5712.0,97.3,,Studied Saturn system
+Mars Curiosity,2011-11-26,NASA,Mars,0,NA,Active,2500000000,78000000,899.0,97.8,,Nuclear-powered rover
+New Horizons,2006-01-19,NASA,Pluto,0,NA,Active,700000000,7500000000,478.0,99.1,,Pluto flyby 2015
+OSIRIS-REx,2016-09-08,NASA,Asteroid Bennu,0,2192,Success,800000000,334000000,2110.0,96.8,,Returned asteroid samples
+Parker Solar Probe,2018-08-12,NASA,Sun,0,NA,Active,1500000000,24000000,685.0,98.9,,Closest approach to Sun
+James Webb Space Telescope,2021-12-25,NASA/ESA,L2 Orbit,0,NA,Active,10000000000,1500000,6500.0,99.5,,Infrared space telescope
+Artemis I,2022-11-16,NASA,Moon,0,25,Success,23000000000,450000,27000.0,98.7,,First SLS launch
+SpaceX Crew Dragon Demo-2,2020-05-30,SpaceX,ISS,2,63,Success,3100000000,408000,12500.0,99.0,Doug Hurley,First commercial crewed flight
+Perseverance Rover,2020-07-30,NASA,Mars,0,NA,Active,2700000000,78000000,1025.0,98.2,,Searching for ancient life
+BepiColombo,2018-10-20,ESA/JAXA,Mercury,0,NA,En Route,1655000000,77000000,4100.0,95.0,,Mercury orbiter
+Solar Orbiter,2020-02-10,ESA,Sun,0,NA,Active,1500000000,150000000,1800.0,96.3,,Solar mission
+Tianwen-1,2020-07-23,CNSA,Mars,0,NA,Active,NA,78000000,5000.0,97.0,,China's first Mars mission
+Chang'e 5,2020-11-24,CNSA,Moon,0,23,Success,NA,384400,8200.0,98.5,,Returned Moon samples
+Hayabusa2,2014-12-03,JAXA,Asteroid Ryugu,0,1950,Success,30000000000,300000000,590.0,97.6,,Returned asteroid samples
+Akatsuki,2010-05-21,JAXA,Venus,0,NA,Active,16400000000,261000000,517.6,93.0,,Venus climate orbiter
+Mars Express,2003-06-02,ESA,Mars,0,NA,Active,300000000,78000000,1223.0,96.0,,Mars orbiter
+Venus Express,2005-11-09,ESA,Venus,0,3260,Success,220000000,261000000,1240.0,95.5,,Venus orbiter
+Rosetta,2004-03-02,ESA,Comet 67P,0,4385,Success,1400000000,800000000,3000.0,95.8,,First comet landing
+Dawn,2007-09-27,NASA,Vesta/Ceres,0,4080,Success,446000000,400000000,1218.0,96.2,,First to orbit dwarf planet
+Juno,2011-08-05,NASA,Jupiter,0,NA,Active,1100000000,600000000,3625.0,97.1,,Jupiter orbiter
+MAVEN,2013-11-18,NASA,Mars,0,NA,Active,671000000,78000000,2454.0,96.8,,Mars atmosphere mission
+InSight,2018-05-05,NASA,Mars,0,1449,Success,993000000,78000000,694.0,95.4,,Mars seismometer
+Mars Reconnaissance Orbiter,2005-08-12,NASA,Mars,0,NA,Active,720000000,78000000,2180.0,97.3,,High-res Mars imaging
+Opportunity Rover,2003-07-07,NASA,Mars,0,5352,Success,400000000,78000000,185.0,97.9,,Record Mars surface mission
+Spirit Rover,2003-06-10,NASA,Mars,0,2208,Success,400000000,78000000,185.0,96.5,,Mars exploration rover
+Lunar Reconnaissance Orbiter,2009-06-18,NASA,Moon,0,NA,Active,583000000,384400,1916.0,98.0,,Lunar mapping
+LCROSS,2009-06-18,NASA,Moon,0,112,Success,79000000,384400,891.0,96.0,,Found water on Moon
+LADEE,2013-09-07,NASA,Moon,0,192,Success,280000000,384400,383.0,95.2,,Lunar dust study
+Lunar Flashlight,2022-12-11,NASA,Moon,0,6,Failure,14500000,384400,14.0,0.0,,Failed to reach orbit
+CAPSTONE,2022-06-28,NASA,Moon,0,NA,Active,32700000,384400,25.0,94.0,,Lunar Gateway pathfinder
+Artemis II,2025-04-01,NASA,Moon,4,10,Planned,NA,450000,27000.0,NA,Reid Wiseman,First crewed Artemis
+IMAP,2025-05-01,NASA,L1 Orbit,0,NA,Planned,492000000,1500000,NA,NA,,Heliosphere mission
+Europa Clipper,2024-10-14,NASA,Jupiter/Europa,0,NA,En Route,5000000000,780000000,6065.0,NA,,Search for life on Europa
+Dragonfly,2028-01-01,NASA,Titan,0,NA,Planned,3350000000,1200000000,NA,NA,,Rotorcraft on Titan
+Lunar Gateway,2025-01-01,NASA/ESA,Moon Orbit,NA,NA,Planned,NA,384400,NA,NA,,Lunar space station
+Mars Sample Return,2030-01-01,NASA/ESA,Mars,0,NA,Planned,10000000000,78000000,NA,NA,,Return Perseverance samples
+JUICE,2023-04-14,ESA,Jupiter,0,NA,En Route,1600000000,600000000,6069.0,NA,,Jupiter icy moons
+Hera,2024-10-07,ESA,Didymos,0,NA,En Route,363000000,480000000,1128.0,NA,,Asteroid deflection
+EnVision,2031-01-01,ESA,Venus,0,NA,Planned,610000000,261000000,NA,NA,,Venus orbiter
+MMX,2026-01-01,JAXA,Phobos,0,NA,Planned,53700000000,78000000,NA,NA,,Mars moon sample return
+Lunar Polar Exploration,2026-01-01,ISRO/JAXA,Moon,0,NA,Planned,NA,384400,NA,NA,,Lunar pole mission
+Gaganyaan,2025-01-01,ISRO,Low Earth Orbit,3,7,Planned,NA,400000,NA,NA,,India's first crewed mission
+Chandrayaan-3,2023-07-14,ISRO,Moon,0,14,Success,75000000,384400,3900.0,97.0,,First lunar south pole landing
+Chandrayaan-2,2019-07-22,ISRO,Moon,0,NA,Partial,1400000000,384400,3850.0,48.0,,Lander crashed
+Mars Orbiter Mission,2013-11-05,ISRO,Mars,0,NA,Success,74000000,78000000,1337.0,96.5,,India's first Mars mission
+Shenzhou 15,2022-11-29,CNSA,CSS,3,186,Success,NA,400000,7800.0,99.0,Fei Junlong,China Space Station mission
+Shenzhou 16,2023-05-30,CNSA,CSS,3,154,Success,NA,400000,7800.0,99.0,Jing Haipeng,China Space Station mission
+Shenzhou 17,2023-10-26,CNSA,CSS,3,189,Success,NA,400000,7800.0,99.1,Tang Hongbo,China Space Station mission
+Shenzhou 18,2024-04-25,CNSA,CSS,3,192,Success,NA,400000,7800.0,99.2,Ye Guangfu,China Space Station mission
+Tiangong Space Station,2021-04-29,CNSA,Low Earth Orbit,3,NA,Active,NA,400000,66000.0,99.5,,China's modular space station
+Long March 5B Y4,2022-07-24,CNSA,CSS,0,NA,Success,NA,400000,23000.0,97.0,,Space station module launch
+SpaceX Starship IFT-1,2023-04-20,SpaceX,Suborbital,0,0.05,Failure,NA,NA,NA,0.0,,Exploded during ascent
+SpaceX Starship IFT-2,2023-11-18,SpaceX,Suborbital,0,0.14,Partial,NA,NA,NA,40.0,,Reached space but exploded
+SpaceX Starship IFT-3,2024-03-14,SpaceX,Suborbital,0,0.95,Partial,NA,NA,NA,70.0,,Survived reentry
+SpaceX Starship IFT-4,2024-06-06,SpaceX,Suborbital,0,1.25,Success,NA,NA,NA,90.0,,Successful splashdown
+SpaceX Starship IFT-5,2024-10-13,SpaceX,Suborbital,0,0.6,Success,NA,NA,NA,95.0,,Caught booster with chopsticks
+SpaceX Falcon Heavy Demo,2018-02-06,SpaceX,Heliocentric Orbit,0,NA,Success,NA,NA,63800.0,98.0,,Launched Tesla Roadster
+SpaceX Dragon CRS-30,2024-11-05,SpaceX,ISS,0,35,Success,NA,400000,3000.0,99.0,,Cargo resupply mission
+Blue Origin NS-23,2023-08-31,Blue Origin,Suborbital,6,0.18,Success,NA,NA,NA,97.5,,New Shepard flight
+Blue Origin NS-24,2024-05-19,Blue Origin,Suborbital,6,0.18,Success,NA,NA,NA,97.8,,New Shepard flight
+Virgin Galactic Unity 25,2023-06-29,Virgin Galactic,Suborbital,6,0.1,Success,NA,NA,NA,95.0,,First commercial spaceflight
+ISS Expedition 70,2023-09-27,NASA/Roscosmos,ISS,7,NA,Completed,NA,400000,NA,99.0,,International crew
+ISS Expedition 71,2024-03-04,NASA/Roscosmos,ISS,7,NA,Active,NA,400000,NA,99.0,,International crew
+Starliner CFT,2024-06-05,Boeing/NASA,ISS,2,200,Partial,4500000000,400000,13000.0,85.0,Butch Wilmore,Propulsion issues
+Crew Dragon Endeavour,2024-09-28,SpaceX,ISS,4,180,Success,NA,400000,12500.0,99.0,,Nominal mission
+Axiom Mission 3,2024-01-18,Axiom Space,ISS,4,21,Success,NA,400000,12500.0,98.5,,Commercial ISS mission
+Varda W-1,2023-06-12,Varda Space,Low Earth Orbit,0,231,Success,NA,550000,120.0,96.0,,First commercial pharma in space
+Rocket Lab Electron CRS,2023-03-16,Rocket Lab,Low Earth Orbit,0,NA,Success,NA,550000,200.0,96.0,,Small satellite launch
+GSAT-20,2024-11-19,ISRO/SpaceX,GEO,0,NA,Active,NA,36000000,4700.0,97.0,,Indian communication satellite
+OneWeb Launch 18,2023-03-09,OneWeb,Low Earth Orbit,0,NA,Active,NA,1200000,5400.0,98.0,,Broadband constellation
+Starlink Group 6-28,2023-10-05,SpaceX,Low Earth Orbit,0,NA,Active,NA,550000,15600.0,99.0,,60 Starlink satellites
+GPS III SV07,2023-01-18,Lockheed Martin/SpaceX,MEO,0,NA,Active,NA,20200000,4400.0,99.5,,GPS navigation satellite
+GOES-18,2022-03-01,NOAA/NASA,GEO,0,NA,Active,NA,36000000,5282.0,99.0,,Weather satellite
+JPSS-2,2022-11-10,NOAA/NASA,LEO,0,NA,Active,NA,824000,2299.0,98.5,,Polar weather satellite
+ICESat-2,2018-09-15,NASA,LEO,0,NA,Active,304000000,496000,1514.0,98.0,,Ice sheet measurement
+TESS,2018-04-18,NASA,High Earth Orbit,0,NA,Active,337000000,600000,362.0,97.5,,Exoplanet hunting
+Kepler Space Telescope,2009-03-07,NASA,Heliocentric Orbit,0,3445,Success,600000000,NA,1039.0,97.0,,Discovered 2600+ exoplanets
+Spitzer Space Telescope,2003-08-25,NASA,Heliocentric Orbit,0,5936,Success,776000000,NA,950.0,97.5,,Infrared astronomy
+Chandra X-ray Observatory,1999-07-23,NASA,High Earth Orbit,0,NA,Active,1650000000,10000000,4800.0,98.0,,X-ray astronomy
+Fermi Gamma-ray Telescope,2008-06-11,NASA,LEO,0,NA,Active,690000000,550000,4303.0,98.5,,Gamma-ray astronomy
+Swift Observatory,2004-11-20,NASA,LEO,0,NA,Active,250000000,600000,1470.0,97.0,,Gamma-ray burst detection
+NuSTAR,2012-06-13,NASA,LEO,0,NA,Active,165000000,600000,350.0,97.0,,Hard X-ray telescope
+XMM-Newton,1999-12-10,ESA,High Earth Orbit,0,NA,Active,1500000000,7000000,3764.0,97.5,,X-ray telescope
+Integral,2002-10-17,ESA,High Earth Orbit,0,NA,Active,330000000,72000,3234.0,97.0,,Gamma-ray observatory
+Gaia,2013-12-19,ESA,L2 Orbit,0,NA,Active,1000000000,1500000,2029.0,98.5,,Stellar cartography
+Planck,2009-05-14,ESA,L2 Orbit,0,1630,Success,700000000,1500000,1950.0,97.0,,CMB mapping
+Herschel,2009-05-14,ESA,L2 Orbit,0,1420,Success,1100000000,1500000,3400.0,97.5,,Far-infrared observatory
+LISA Pathfinder,2015-12-03,ESA,L1 Orbit,0,521,Success,400000000,1500000,1910.0,97.0,,Gravitational wave precursor
+CHEOPS,2019-12-18,ESA,LEO,0,NA,Active,50000000,700000,280.0,96.0,,Exoplanet characterization
+Sentinel-6,2020-11-21,ESA,LEO,0,NA,Active,897000000,1336000,1440.0,97.5,,Sea level monitoring
+EarthCARE,2024-05-29,ESA/JAXA,LEO,0,NA,Active,850000000,393000,2300.0,NA,,Cloud and aerosol study
+SWOT,2022-12-16,NASA/CNES,LEO,0,NA,Active,1200000000,891000,2200.0,98.0,,Water surface topography
+SPHEREx,2025-03-11,NASA,LEO,0,NA,Active,488000000,550000,302.0,NA,,All-sky spectroscopy
+Roman Space Telescope,2027-01-01,NASA,L2 Orbit,0,NA,Planned,4300000000,1500000,4200.0,NA,,Wide-field infrared survey
+LISA,2034-01-01,ESA,Heliocentric Orbit,0,NA,Planned,2000000000,NA,NA,NA,,Space gravitational wave detector
+Athena,2037-01-01,ESA,L2 Orbit,0,NA,Planned,3000000000,1500000,NA,NA,,Advanced X-ray telescope
+GeneSat-1,2006-12-16,NASA,LEO,0,30,Success,NA,400000,5.0,95.0,,First biology CubeSat
+PharmaSat,2009-05-19,NASA,LEO,0,40,Success,NA,400000,5.0,95.0,,Biology in space
+MinXSS,2016-05-16,NASA,LEO,0,300,Success,NA,400000,3.6,95.0,,Solar X-ray CubeSat
+TEMPEST-D,2018-07-13,NASA,LEO,0,270,Success,NA,400000,4.0,95.5,,Weather CubeSat
+RainCube,2018-07-13,NASA,LEO,0,213,Success,NA,400000,1.6,95.5,,Radar CubeSat
+BioSentinel,2022-11-16,NASA,Deep Space,0,NA,Active,NA,NA,14.0,NA,,Biology beyond LEO
+MarCO-A,2018-05-05,NASA,Mars,0,366,Success,18500000,78000000,13.5,96.0,,First interplanetary CubeSats
+MarCO-B,2018-05-05,NASA,Mars,0,366,Success,18500000,78000000,13.5,96.0,,First interplanetary CubeSats
+AIM,2007-04-25,NASA,LEO,0,NA,Completed,NA,600000,196.0,94.0,,Noctilucent cloud study
+CALIPSO,2006-04-28,NASA/CNES,LEO,0,NA,Completed,NA,705000,562.0,97.0,,Aerosol lidar
+CloudSat,2006-04-28,NASA,LEO,0,NA,Completed,NA,705000,630.0,96.5,,Cloud radar
+Aqua,2002-05-04,NASA,LEO,0,NA,Active,952000000,705000,2934.0,98.0,,Earth observation
+Terra,1999-12-18,NASA,LEO,0,NA,Active,1300000000,705000,5190.0,98.0,,Multi-instrument Earth obs
+Landsat 9,2021-09-27,NASA/USGS,LEO,0,NA,Active,750000000,705000,2750.0,98.5,,Land surface imaging
+Sentinel-2B,2017-03-07,ESA,LEO,0,NA,Active,537000000,786000,1130.0,98.0,,Land monitoring
+WorldView-4,2016-11-11,DigitalGlobe,LEO,0,1460,Failure,650000000,617000,2485.0,0.0,,CMG failure
+IKONOS,1999-09-24,Space Imaging,LEO,0,6178,Success,500000000,681000,817.0,95.5,,First commercial HiRes satellite
+QuickBird,2001-10-18,DigitalGlobe,LEO,0,6126,Success,400000000,450000,1028.0,96.0,,Commercial imaging satellite
