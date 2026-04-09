@@ -31,8 +31,10 @@ def detect_column_types(df: pd.DataFrame) -> Dict[str, str]:
             types[col] = "unknown"
             continue
 
-        # Boolean check first (before numeric)
-        if series.dtype == bool or set(series.unique()).issubset({True, False, 0, 1, "True", "False", "true", "false", "yes", "no", "Yes", "No"}):
+        # Boolean check first (before numeric). Sample to avoid scanning large series.
+        _BOOL_SET = {True, False, 0, 1, "True", "False", "true", "false", "yes", "no", "Yes", "No"}
+        _sample = series.iloc[:1000] if len(series) > 1000 else series
+        if series.dtype == bool or set(_sample.unique()).issubset(_BOOL_SET):
             types[col] = "boolean"
             continue
 
@@ -155,12 +157,14 @@ def _boolean_stats(series: pd.Series) -> Dict[str, Any]:
     """Compute statistics for a boolean column."""
     s = series.dropna()
     vc = s.value_counts()
+    _truthy = {True, 1, "True", "true", "yes", "Yes"}
+    true_count = int(sum(vc.get(k, 0) for k in _truthy))
     return {
         "count": int(s.count()),
         "missing": int(series.isna().sum()),
         "missing_pct": round(series.isna().mean() * 100, 2),
-        "true_count": int(vc.get(True, vc.get(1, vc.get("True", vc.get("true", vc.get("yes", vc.get("Yes", 0))))))),
-        "false_count": int(s.count()) - int(vc.get(True, vc.get(1, vc.get("True", vc.get("true", vc.get("yes", vc.get("Yes", 0))))))),
+        "true_count": true_count,
+        "false_count": int(s.count()) - true_count,
         "top_value": str(vc.index[0]) if len(vc) else None,
     }
 
